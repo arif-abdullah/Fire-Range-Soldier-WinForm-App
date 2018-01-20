@@ -1,0 +1,18 @@
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\bin\Debug\SoldireData.exe.config
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\bin\Debug\SoldireData.exe
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\bin\Debug\SoldireData.pdb
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\obj\Debug\SoldireData.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\obj\Debug\SoldireData.SoldireDataEntry.resources
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\obj\Debug\SoldireData.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\obj\Debug\SoldireData.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\obj\Debug\SoldireData.exe
+C:\Users\Web App Develop .Net\Desktop\Tajnin.DU\SoldireData\SoldireData\obj\Debug\SoldireData.pdb
+E:\BITM\30-11-17\SoldireData\SoldireData\bin\Debug\SoldireData.exe.config
+E:\BITM\30-11-17\SoldireData\SoldireData\obj\Debug\SoldireData.exe
+E:\BITM\30-11-17\SoldireData\SoldireData\obj\Debug\SoldireData.pdb
+E:\BITM\30-11-17\SoldireData\SoldireData\bin\Debug\SoldireData.exe
+E:\BITM\30-11-17\SoldireData\SoldireData\bin\Debug\SoldireData.pdb
+E:\BITM\30-11-17\SoldireData\SoldireData\obj\Debug\SoldireData.csprojResolveAssemblyReference.cache
+E:\BITM\30-11-17\SoldireData\SoldireData\obj\Debug\SoldireData.SoldireDataEntry.resources
+E:\BITM\30-11-17\SoldireData\SoldireData\obj\Debug\SoldireData.Properties.Resources.resources
+E:\BITM\30-11-17\SoldireData\SoldireData\obj\Debug\SoldireData.csproj.GenerateResource.Cache
